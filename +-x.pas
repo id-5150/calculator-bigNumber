@@ -1,3 +1,4 @@
+//default maximum number length: 255
 uses crt;
 type
     bigNum=string;
